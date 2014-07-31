@@ -1,0 +1,32 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+sysinfo.txt
+
+# Visual Studio / MonoDevelop generated
+ExportedObj/
+*.svd
+*.userprefs
+/*.csproj
+*.unityproj
+*.booproj
+*.pidb
+*.suo
+/*.sln
+*.user
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Gedit generated
+*~
+
+# For Unity on Wine
+/C:
